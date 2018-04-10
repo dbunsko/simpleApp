@@ -1,0 +1,7 @@
+Package: simpleApp
+Type: Package
+Title: Shiny application
+Version: 0.0.01
+Description: simpleApp to demo RInno continuous installation
+Encoding: UTF-8
+LazyData: true
